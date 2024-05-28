@@ -227,10 +227,6 @@
                             <!-- Embed Instagram Reel -->
                             <iframe src="https://www.instagram.com/reel/C7Dh1zdNR_A/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>
                         </div>
-                        <div class="text-center py-4">
-                            <h4 class="text-primary">Reel Title 1</h4>
-                            <p class="text-uppercase m-0">Short description or hashtag</p>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
@@ -238,10 +234,6 @@
                         <div class="reel-video position-relative overflow-hidden">
                             <!-- Embed Instagram Reel -->
                             <iframe src="https://www.instagram.com/reel/C6dEpPoM8k7/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>
-                        </div>
-                        <div class="text-center py-4">
-                            <h4 class="text-primary">Reel Title 2</h4>
-                            <p class="text-uppercase m-0">Short description or hashtag</p>
                         </div>
                     </div>
                 </div>
@@ -251,19 +243,15 @@
                             <!-- Embed Instagram Reel -->
                             <iframe src="https://www.instagram.com/reel/C6N4qjTIRDl/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>
                         </div>
-                        <div class="text-center py-4">
-                            <h4 class="text-primary">Reel Title 3</h4>
-                            <p class="text-uppercase m-0">Short description or hashtag</p>
-                        </div>
                     </div>
                 </div>
+            </div>
+            <div class="text-center mt-4">
+                <a href="https://radnet-digital.id/radnext-video/" class="btn btn-primary fw-bold">Video Lainnya</a>
             </div>
         </div>
     </div>
     <!-- Instagram Reels End -->
-
-
-
 
     <!-- Features Start 
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
