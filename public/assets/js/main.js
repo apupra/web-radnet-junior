@@ -105,7 +105,7 @@
         dots: false,
         loop: true,
         autoplay: true,
-        smartSpeed: 500,
+        smartSpeed: 1000,
         responsive: {
             0:{
                 items:2

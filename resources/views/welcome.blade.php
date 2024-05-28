@@ -213,6 +213,58 @@
     </div>
     <!-- Service End -->
 
+    <!-- Instagram Reels Start -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Instagram Reels</h5>
+                <h1 class="mb-0">Radnet Video</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
+                    <div class="reel-item bg-light rounded overflow-hidden">
+                        <div class="reel-video position-relative overflow-hidden">
+                            <!-- Embed Instagram Reel -->
+                            <iframe src="https://www.instagram.com/reel/C7Dh1zdNR_A/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Reel Title 1</h4>
+                            <p class="text-uppercase m-0">Short description or hashtag</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
+                    <div class="reel-item bg-light rounded overflow-hidden">
+                        <div class="reel-video position-relative overflow-hidden">
+                            <!-- Embed Instagram Reel -->
+                            <iframe src="https://www.instagram.com/reel/C6dEpPoM8k7/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Reel Title 2</h4>
+                            <p class="text-uppercase m-0">Short description or hashtag</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
+                    <div class="reel-item bg-light rounded overflow-hidden">
+                        <div class="reel-video position-relative overflow-hidden">
+                            <!-- Embed Instagram Reel -->
+                            <iframe src="https://www.instagram.com/reel/C6N4qjTIRDl/embed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="width: 100%; height: 400px;"></iframe>
+                        </div>
+                        <div class="text-center py-4">
+                            <h4 class="text-primary">Reel Title 3</h4>
+                            <p class="text-uppercase m-0">Short description or hashtag</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Instagram Reels End -->
+
+
+
+
     <!-- Features Start 
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -457,24 +509,37 @@
     <!-- Team End -->
 
 
-    <!-- Vendor Start 
+    <!-- Vendor Start -->
     <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container py-5 mb-5">
             <div class="bg-white">
+                    <div class="position-relative pb-3 mb-3">
+                        <h1 class="mb-3">Beberapa mitra kami diantaranya adalah :</h1>
+                        <h5 class="fw-bold text-primary text-uppercase">Perusahaan Swasta</h5>
+                    </div>
+                <div class="owl-carousel vendor-carousel mb-5">
+                    <img src="{{ asset('assets/img/Kedawung.png') }}" alt="">
+                    <img src="{{ asset('assets/img/bumisurabaya.png') }}" alt="">
+                    <img src="{{ asset('assets/img/mamesa.png') }}" alt="">
+                    <img src="{{ asset('assets/img/jatayu.png') }}" alt="">
+                </div>
+                    
+                    <div class="position-relative pb-3 mb-3">
+                        <h5 class="fw-bold text-primary text-uppercase">Instansi Pendidikan</h5>
+                    </div>
+
                 <div class="owl-carousel vendor-carousel">
-                    <img src="{{ asset('assets/img/vendor-1.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-2.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-3.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-4.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-5.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-6.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-7.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-8.jpg') }}" alt="">
-                    <img src="{{ asset('assets/img/vendor-9.jpg') }}" alt="">
+                    <img src="{{ asset('assets/img/unnar2.png') }}" alt="">
+                    <img src="{{ asset('assets/img/unesa.png') }}" alt="">
+                    <img src="{{ asset('assets/img/smkn1sby.png') }}" alt="">
+                    <img src="{{ asset('assets/img/smkn6.png') }}" alt="">
+                    <img src="{{ asset('assets/img/smekdel.png') }}" alt="">
+                    <img src="{{ asset('assets/img/smawuayaputra.png') }}" alt="">
+                    <img src="{{ asset('assets/img/mujahidin.png') }}" alt="">
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <!-- Vendor End -->
 
     <!-- Back to Top -->

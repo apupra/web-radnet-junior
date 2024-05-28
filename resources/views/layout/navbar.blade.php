@@ -16,11 +16,9 @@
             </div>
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-instagram fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href=""><i class="fab fa-youtube fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/radnext.id"><i class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/company/pt-rdi/"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/radnetdigital"><i class="fab fa-instagram fw-normal"></i></a>
                 </div>
             </div>
         </div>
@@ -60,18 +58,18 @@
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Dukungan</a>
                         <div class="dropdown-menu m-0">
-                            <a href="price.html" class="dropdown-item">FAQ</a>
-                            <a href="feature.html" class="dropdown-item">Cara Pembayaran</a>
+                            <a href="https://radnet-digital.id/faq/" class="dropdown-item">FAQ</a>
+                            <a href="https://radnet-digital.id/cara-pembayaran/" class="dropdown-item">Cara Pembayaran</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                         <div class="dropdown-menu m-0">
-                            <a href="price.html" class="dropdown-item">Artikel</a>
-                            <a href="feature.html" class="dropdown-item">Radnet Video</a>
+                            <a href="https://radnet-digital.id/blog-radnet-digital-indonesia/" class="dropdown-item">Artikel</a>
+                            <a href="https://radnet-digital.id/radnext-video/" class="dropdown-item">Radnet Video</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Portal Webmail</a>
+                    <a href="https://webmail.radnet.id/" class="nav-item nav-link">Portal Webmail</a>
                     <a href="#contact" class="nav-item nav-link">Tentang Kami</a>
                 </div>
             </div>
