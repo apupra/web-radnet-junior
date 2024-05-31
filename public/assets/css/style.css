@@ -454,6 +454,12 @@ h6,
     transform: scale(1.15);
 }
 
+.team-img img {
+    height: 250px; /* Set a fixed height */
+    object-fit: cover; /* Maintain the aspect ratio and cover the container */
+}
+
+
 
 /*** Miscellaneous ***/
 @media (min-width: 991.98px) {

@@ -16,9 +16,11 @@
             </div>
             <div class="col-lg-4 text-center text-lg-end">
                 <div class="d-inline-flex align-items-center" style="height: 45px;">
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/radnext.id"><i class="fab fa-facebook-f fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/company/pt-rdi/"><i class="fab fa-linkedin-in fw-normal"></i></a>
-                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/radnetdigital"><i class="fab fa-instagram fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/radnext.id" target="_blank"><i class="fab fa-facebook-f fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.linkedin.com/company/pt-rdi/" target="_blank"><i class="fab fa-linkedin-in fw-normal"></i></a>
+                    <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"       href="https://www.instagram.com/radnetdigital" target="_blank">
+                        <i class="fab fa-instagram fw-normal"></i>
+                    </a>
                 </div>
             </div>
         </div>
@@ -40,36 +42,36 @@
                 <div class="navbar-nav ms-auto py-0">
                     <a href="#beranda" class="nav-item nav-link active">Beranda</a>
                     <div class="nav-item dropdown">
-                        <a href="#blog" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Produk $ Layanan</a>
+                        <a href="#blog" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Produk & Layanan</a>
                         <div class="dropdown-menu m-0">
-                            <a href="#beranda" class="dropdown-item">Radnet Junior</a>
-                            <a href="https://radnet-digital.id/private-peering/" class="dropdown-item">Private Peering</a>
-                            <a href="https://radnet-digital.id/internet-security/" class="dropdown-item">Internet Security</a>
-                            <a href="https://radnet-digital.id/radnext-internet/" class="dropdown-item">Radnet Registar</a>
-                            <a href="https://indocenter.co.id/" class="dropdown-item">Indocenter</a>
-                            <a href="https://radnet-digital.id/ezyhome/" class="dropdown-item">EzyHome</a>
-                            <a href="https://radnet-digital.id/siadi/" class="dropdown-item">Sistem Informasi Akademik</a>
-                            <a href="https://radnet-digital.id/akademi-digital-indonesia/" class="dropdown-item">Akademi Digital Indonesia</a>
-                            <a href="https://radnet-digital.id/zona-konten/" class="dropdown-item">Zona Konten</a>
-                            <a href="https://radnet-digital.id/huris/" class="dropdown-item">Huris</a>
-                            <a href="https://radnet-digital.id/excel2neofeeder/" class="dropdown-item">Excel 2 Neo Feeder</a>
+                            <a href="#beranda" class="dropdown-item" >Radnet Junior</a>
+                            <a href="https://radnet-digital.id/private-peering/" class="dropdown-item" target="_blank">Private Peering</a>
+                            <a href="https://radnet-digital.id/internet-security/" class="dropdown-item" target="_blank">Internet Security</a>
+                            <a href="https://radnet-digital.id/radnext-internet/" class="dropdown-item" target="_blank">Radnet Registar</a>
+                            <a href="https://indocenter.co.id/" class="dropdown-item" target="_blank">Indocenter</a>
+                            <a href="https://radnet-digital.id/ezyhome/" class="dropdown-item" target="_blank">EzyHome</a>
+                            <a href="https://radnet-digital.id/siadi/" class="dropdown-item" target="_blank">Sistem Informasi Akademik</a>
+                            <a href="https://radnet-digital.id/akademi-digital-indonesia/" class="dropdown-item" target="_blank">Akademi Digital Indonesia</a>
+                            <a href="https://radnet-digital.id/zona-konten/" class="dropdown-item" target="_blank">Zona Konten</a>
+                            <a href="https://radnet-digital.id/huris/" class="dropdown-item" target="_blank">Huris</a>
+                            <a href="https://radnet-digital.id/excel2neofeeder/" class="dropdown-item" target="_blank">Excel 2 Neo Feeder</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Dukungan</a>
                         <div class="dropdown-menu m-0">
-                            <a href="https://radnet-digital.id/faq/" class="dropdown-item">FAQ</a>
-                            <a href="https://radnet-digital.id/cara-pembayaran/" class="dropdown-item">Cara Pembayaran</a>
+                            <a href="https://radnet-digital.id/faq/" class="dropdown-item" target="_blank">FAQ</a>
+                            <a href="https://radnet-digital.id/cara-pembayaran/" class="dropdown-item" target="_blank">Cara Pembayaran</a>
                         </div>
                     </div>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Blog</a>
                         <div class="dropdown-menu m-0">
-                            <a href="https://radnet-digital.id/blog-radnet-digital-indonesia/" class="dropdown-item">Artikel</a>
-                            <a href="https://radnet-digital.id/radnext-video/" class="dropdown-item">Radnet Video</a>
+                            <a href="https://radnet-digital.id/blog-radnet-digital-indonesia/" class="dropdown-item" target="_blank">Artikel</a>
+                            <a href="https://radnet-digital.id/radnext-video/" class="dropdown-item" target="_blank">Radnet Video</a>
                         </div>
                     </div>
-                    <a href="https://webmail.radnet.id/" class="nav-item nav-link">Portal Webmail</a>
+                    <a href="https://webmail.radnet.id/" class="nav-item nav-link" target="_blank">Portal Webmail</a>
                     <a href="#contact" class="nav-item nav-link">Tentang Kami</a>
                 </div>
             </div>
@@ -78,7 +80,7 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="{{ asset('assets/img/nb1.jpeg') }}" alt="Image">
+                    <img class="w-100" src="{{ asset('assets/img/magang.jpeg') }}" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">PT RADNET DIGITAL INDONESIA</h5>
@@ -88,7 +90,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="{{ asset('assets/img/nb2.png') }}" alt="Image">
+                    <img class="w-100" src="{{ asset('assets/img/magang1.jpeg') }}" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase mb-3 animated slideInDown">PT RADNET DIGITAL INDONESIA</h5>

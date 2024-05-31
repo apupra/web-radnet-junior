@@ -35,7 +35,7 @@
                 </div>
                 <div class="col-lg-5" style="min-height: 500px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="{{ asset('assets/img/nt2.jpeg') }}" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100 rounded wow zoomIn" data-wow-delay="0.9s" src="{{ asset('assets/img/magang.jpg') }}" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="{{ asset('assets/img/1.jpg') }}" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/private-peering/">View</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/private-peering/" target="_blank">View</a>
                         </div>
                         <div class="p-4">
                             <h4 class="mb-3">Private Peering</h4>
@@ -68,7 +68,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="{{ asset('assets/img/2.jpg') }}" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/internet-security/">View</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/internet-security/" target="_blank">View</a>
                         </div>
                         <div class="p-4">
                             <h4 class="mb-3">Internet Security</h4>
@@ -81,7 +81,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="{{ asset('assets/img/3.jpg') }}" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/radnext-internet/">View</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/radnext-internet/" target="_blank">View</a>
                         </div>
                         <div class="p-4">
                             <h4 class="mb-3">Radnext Internet</h4>
@@ -94,7 +94,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="{{ asset('assets/img/4.jpg') }}" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://registrar.radnet-digital.id/?_gl=1*627vnl*_ga*NTk0NjkzMzc2LjE3MDg2MTExNzk.*_ga_J8F34VXE6J*MTcxNjcyMTg2OC4xMC4xLjE3MTY3MjIzODQuMC4wLjA.">View</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://registrar.radnet-digital.id/?_gl=1*627vnl*_ga*NTk0NjkzMzc2LjE3MDg2MTExNzk.*_ga_J8F34VXE6J*MTcxNjcyMTg2OC4xMC4xLjE3MTY3MjIzODQuMC4wLjA." target="_blank">View</a>
                         </div>
                         <div class="p-4">
                             <h4 class="mb-3">Radnext Registar</h4>
@@ -107,7 +107,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="{{ asset('assets/img/5.jpg') }}" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://indocenter.co.id/">View</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://indocenter.co.id/" target="_blank">View</a>
                         </div>
                         <div class="p-4">
                             <h4 class="mb-3">Indocenter</h4>
@@ -120,7 +120,7 @@
                     <div class="blog-item bg-light rounded overflow-hidden">
                         <div class="blog-img position-relative overflow-hidden">
                             <img class="img-fluid" src="{{ asset('assets/img/6.png') }}" alt="">
-                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/ezyhome/">View</a>
+                            <a class="position-absolute top-0 start-0 bg-primary text-white rounded-end mt-5 py-2 px-4" href="https://radnet-digital.id/ezyhome/" target="_blank">View</a>
                         </div>
                         <div class="p-4">
                             <h4 class="mb-3">EzyHome Internet</h4>
@@ -148,7 +148,7 @@
                             <img src="{{ asset('assets/img/siadi.png') }}" alt="">
                         </div>
                         <p class="m-0">Merupakan salah satu layanan sistem informasi akademik yang menggunakan teknologi SaaS yang diperuntukan untuk instansi pendidikan. </p>
-                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/siadi/">
+                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/siadi/" target="_blank">
                             <i class="bi bi-arrow-right" ></i>
                         </a>
                     </div>
@@ -159,7 +159,7 @@
                             <img src="{{ asset('assets/img/adi.png') }}" alt="">
                         </div>
                         <p class="m-0">Merupakan  platform pengembangan ilmu pengetahuan TIK melalui pelatihan, magang, pembuatan konten dan  jurnal ilmiah.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/akademi-digital-indonesia/">
+                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/akademi-digital-indonesia/" target="_blank">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -171,7 +171,7 @@
                         </div>
                         <h4 class="mb-3">Zona Konten</h4>
                         <p class="m-0">Layanan jasa pengelolaan konten media sosial atau bisa disebut social media management untuk kebutuhan digital Anda.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/zona-konten/">
+                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/zona-konten/" target="_blank">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -183,7 +183,7 @@
                         </div>
                         
                         <p class="m-0">Layanan ini berfokus pada manajemen sumber daya manusia yang diperuntukkan untuk lembaga industi ataupun instansi terkait.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/huris/">
+                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/huris/" target="_blank">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -195,7 +195,7 @@
                         </div>
                         <h4 class="mb-3">SEO Optimization</h4>
                         <p class="m-0">Merupakan aplikasi pelaporan akademik universitas yang otomatis tersinkronisasi dengan aplikasi neo feeder PDDIKTI.</p>
-                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/excel2neofeeder/">
+                        <a class="btn btn-lg btn-primary rounded" href="https://radnet-digital.id/excel2neofeeder/" target="_blank">
                             <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
@@ -247,7 +247,7 @@
                 </div>
             </div>
             <div class="text-center mt-4">
-                <a href="https://radnet-digital.id/radnext-video/" class="btn btn-primary fw-bold">Video Lainnya</a>
+                <a href="https://radnet-digital.id/radnext-video/" target="_blank" class="btn btn-primary fw-bold">Video Lainnya</a>
             </div>
         </div>
     </div>
@@ -443,7 +443,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/nt2.jpeg') }}" alt="">
+                            <img class="img-fluid w-100 team-img" src="{{ asset('assets/img/nt2.jpeg') }}" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -460,7 +460,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.6s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/nt2.jpeg') }}" alt="">
+                            <img class="img-fluid w-100 team-img" src="{{ asset('assets/img/adit.jpeg') }}" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
@@ -469,7 +469,7 @@
                             </div>
                         </div>
                         <div class="text-center py-4">
-                            <h4 class="text-primary">Filusive Nathan Fernanda</h4>
+                            <h4 class="text-primary">Aditya Putra Pratama</h4>
                             <p class="text-uppercase m-0">Engineer</p>
                         </div>
                     </div>
@@ -477,7 +477,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.9s">
                     <div class="team-item bg-light rounded overflow-hidden">
                         <div class="team-img position-relative overflow-hidden">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/nt2.jpeg') }}" alt="">
+                            <img class="img-fluid w-100 team-img" src="{{ asset('assets/img/nt2.jpeg') }}" alt="">
                             <div class="team-social">
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-lg btn-primary btn-lg-square rounded" href=""><i class="fab fa-facebook-f fw-normal"></i></a>
